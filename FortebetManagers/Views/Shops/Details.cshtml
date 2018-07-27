@@ -1,0 +1,72 @@
+﻿@model FortebetManagers.Models.Shops
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Shops</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Province)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Province)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.District)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.District)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sector)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Sector)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Cell)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Cell)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Village)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Village)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Landlord)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Landlord)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Rent)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Rent)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DateRented)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DateRented)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

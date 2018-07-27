@@ -1,0 +1,12 @@
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\bin\Debug\netcoreapp2.0\FortebetManagers.deps.json
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\bin\Debug\netcoreapp2.0\FortebetManagers.runtimeconfig.json
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\bin\Debug\netcoreapp2.0\FortebetManagers.runtimeconfig.dev.json
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\bin\Debug\netcoreapp2.0\FortebetManagers.dll
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\bin\Debug\netcoreapp2.0\FortebetManagers.pdb
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\obj\Debug\netcoreapp2.0\FortebetManagers.csprojAssemblyReference.cache
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\obj\Debug\netcoreapp2.0\FortebetManagers.csproj.CoreCompileInputs.cache
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\obj\Debug\netcoreapp2.0\FortebetManagers.AssemblyInfoInputs.cache
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\obj\Debug\netcoreapp2.0\FortebetManagers.AssemblyInfo.cs
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\obj\Debug\netcoreapp2.0\FortebetManagers.dll
+c:\users\honmugic\source\repos\FortebetManagers\FortebetManagers\obj\Debug\netcoreapp2.0\FortebetManagers.pdb
+C:\Users\Honmugic\source\repos\FortebetManagers\FortebetManagers\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
